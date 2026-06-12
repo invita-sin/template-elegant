@@ -1,0 +1,100 @@
+{
+  "couple": {
+    "bride": {
+      "name": "Aisyah",
+      "fullName": "Aisyah Putri Rabbani",
+      "parent": "Putri dari Bapak Ahmad Fauzi & Ibu Siti Nurhaliza",
+      "image": "/templates/classic/elegant/images/bride.jpg"
+    },
+    "groom": {
+      "name": "Rizky",
+      "fullName": "Rizky Akbar Pratama",
+      "parent": "Putra dari Bapak Hendra Gunawan & Ibu Dewi Sartika",
+      "image": "/templates/classic/elegant/images/groom.jpg"
+    },
+    "weddingDate": "2025-08-17T09:00:00+07:00",
+    "guestName": "Bapak/Ibu/Saudara/i"
+  },
+  "event": {
+    "title": "Pernikahan",
+    "akad": {
+      "title": "Akad Nikah",
+      "date": "2025-08-17T09:00:00+07:00",
+      "time": "09:00 - 11:00 WIB",
+      "location": "Masjid Agung Al-Hikmah",
+      "address": "Jl. Merdeka No. 123, Jakarta Pusat"
+    },
+    "reception": {
+      "title": "Resepsi",
+      "date": "2025-08-17T12:00:00+07:00",
+      "time": "12:00 - 17:00 WIB",
+      "location": "Hotel Grand Ballroom",
+      "address": "Jl. Sudirman No. 45, Jakarta Selatan"
+    }
+  },
+  "loveStory": [
+    {
+      "title": "Pertemuan Pertama",
+      "date": "Januari 2022",
+      "description": "Berawal dari acara seminar, kami mulai saling mengenal dan menemukan banyak kesamaan."
+    },
+    {
+      "title": "Mulai Serius",
+      "date": "Maret 2023",
+      "description": "Kami memutuskan untuk menjalin hubungan yang lebih serius menuju jenjang pernikahan."
+    },
+    {
+      "title": "Bertunangan",
+      "date": "Desember 2024",
+      "description": "Momen bahagia ketika kami resmi bertunangan di hadapan kedua keluarga."
+    },
+    {
+      "title": "Pernikahan",
+      "date": "Agustus 2025",
+      "description": "Hari yang paling dinanti, mengucapkan janji suci di hadapan Allah SWT."
+    }
+  ],
+  "gallery": [
+    "/templates/classic/elegant/images/gallery-1.jpg",
+    "/templates/classic/elegant/images/gallery-2.jpg",
+    "/templates/classic/elegant/images/gallery-3.jpg",
+    "/templates/classic/elegant/images/gallery-4.jpg",
+    "/templates/classic/elegant/images/gallery-5.jpg",
+    "/templates/classic/elegant/images/gallery-6.jpg"
+  ],
+  "gift": {
+    "bank": [
+      {
+        "name": "BANK BCA",
+        "accountNumber": "1234567890",
+        "accountName": "Rizky Akbar Pratama"
+      },
+      {
+        "name": "BANK MANDIRI",
+        "accountNumber": "9876543210",
+        "accountName": "Aisyah Putri Rabbani"
+      }
+    ]
+  },
+  "maps": {
+    "embedUrl": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.0!2d106.794!3d-6.229!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNsKwMTMnNDQuNCJTIDEwNsKwNDcnMzguNCJF!5e0!3m2!1sen!2sid!4v1"
+  },
+  "rsvp": {
+    "whatsappNumber": "6289697751622",
+    "message": "Assalamu'alaikum, saya ingin mengkonfirmasi kehadiran pada acara pernikahan Rizky & Aisyah."
+  },
+  "closing": {
+    "thankYouMessage": "Merupakan suatu kehormatan dan kebahagiaan apabila Bapak/Ibu/Saudara/i berkenan hadir memberikan doa restu."
+  },
+  "music": {
+    "src": "/templates/classic/elegant/audio/music.mp3",
+    "title": "Gravity",
+    "artist": "Westlife"
+  },
+  "theme": {
+    "primaryColor": "#D4AF37",
+    "secondaryColor": "#F8F4E9",
+    "fontHeading": "Playfair Display",
+    "fontBody": "Poppins"
+  }
+}

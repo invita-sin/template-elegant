@@ -1,0 +1,18 @@
+@import "tailwindcss";
+@import "./theme-presets.css";
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: var(--ivory);
+  color: var(--charcoal);
+  overflow-x: hidden;
+}
+
+::selection {
+  background-color: var(--gold);
+  color: #fff;
+}

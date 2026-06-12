@@ -1,0 +1,20 @@
+:root {
+  --gold: #d4af37;
+  --gold-light: #f0d68a;
+  --gold-dark: #b8962e;
+  --ivory: #fffff0;
+  --champagne: #f8f4e9;
+  --charcoal: #2d2d2d;
+  --elegant-bg: #fdfcf7;
+  --gold-gradient: linear-gradient(135deg, #d4af37, #f0d68a, #d4af37);
+}
+
+@theme inline {
+  --color-gold: #d4af37;
+  --color-ivory: #fffff0;
+  --color-champagne: #f8f4e9;
+  --color-charcoal: #2d2d2d;
+  --font-heading: "Playfair Display", serif;
+  --font-body: "Poppins", sans-serif;
+  --font-accent: "Montserrat", sans-serif;
+}
